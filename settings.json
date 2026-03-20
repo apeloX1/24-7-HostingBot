@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "jujutsukaisenop1.aternos.me:53798",
+    "port": 53798,
     "version": "",
     "try-creative": false
   },
