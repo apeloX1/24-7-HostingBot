@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "arcmcesports.aternos.me",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "arcmcesports.aternos.me:53798",
+    "ip": "Server Redirect",
     "port": 53798,
     "version": "",
     "try-creative": false
